@@ -26,7 +26,15 @@
 	background-color: yellow;
 }
 
-
+.Apperture>h2{
+  background-color: grey;
+}
+.ISO>h2{
+  background-color: red;
+}
+.Shutter>h2{
+  background-color: white;
+}
 
 
 
